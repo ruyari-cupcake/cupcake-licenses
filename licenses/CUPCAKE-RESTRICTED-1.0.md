@@ -83,10 +83,9 @@ is intended to be machine-readable wherever the Software or its notices are made
 
 ## 5. No automated collection
 
-Except for operations that the Licensor directly authorizes or rights necessarily granted to a
-hosting service by the Licensor, You must not use a bot, crawler, scraper, agent, bulk downloader,
-mirror, archival process, or other automated means to access, collect, copy, monitor, index,
-mine, or preserve the Software.
+Without the Licensor's prior written permission, You must not use a bot, crawler, scraper, agent,
+bulk downloader, mirror, archival process, or other automated means to access, collect, copy,
+monitor, index, mine, or preserve the Software.
 
 ## 6. No redistribution or commercial exploitation
 
@@ -105,22 +104,14 @@ only to material for which the Licensor has authority to grant these terms. Noth
 License reduces permissions that a third-party license independently grants for third-party
 material.
 
-## 8. Mandatory-law exception
-
-If applicable mandatory law does not permit a particular restriction, that restriction is
-limited only to the minimum extent required by that law. Before relying on such an exception,
-You must give the Licensor advance written notice when the law permits, use the minimum amount
-necessary, preserve every notice, and refrain from disclosure or redistribution except to the
-minimum extent the law requires.
-
-## 9. Termination
+## 8. Termination
 
 This License terminates automatically and immediately upon breach. Upon termination, You must
 stop all use and delete all copies in Your possession or control, except copies whose retention
 is required by law. Sections that by their nature should survive termination remain effective,
-including Sections 3 through 13.
+including Sections 3 through 12.
 
-## 10. Disclaimer and limitation of liability
+## 9. Disclaimer and limitation of liability
 
 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND
@@ -128,23 +119,21 @@ NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE LICENSOR WILL NOT 
 INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, EXEMPLARY, OR PUNITIVE DAMAGES, OR FOR LOSS OF
 DATA, PROFITS, GOODWILL, OR BUSINESS, ARISING FROM OR RELATED TO THE SOFTWARE OR THIS LICENSE.
 
-## 11. No trademark license
+## 10. No trademark license
 
 This License grants no right to use the Licensor's names, product names, logos, trade dress, or
 marks, except as strictly necessary to reproduce an intact notice in a permitted copy.
 
-## 12. Governing law and disputes
+## 11. Governing law and disputes
 
 This License is governed by the laws of the Republic of Korea, without regard to conflict-of-law
-rules. To the extent permitted by law, the Seoul Central District Court has exclusive original
-jurisdiction over disputes arising from this License or the Software.
+rules. The Seoul Central District Court has exclusive original jurisdiction over disputes arising
+from this License or the Software.
 
-## 13. Entire terms; severability; waiver
+## 12. Entire terms and waiver
 
 This License is the entire agreement for the permissions it grants unless the Licensor signs a
-separate written agreement. If a provision is unenforceable, it will be modified only as needed
-to make it enforceable, and the remaining provisions continue in effect. A failure to enforce a
-provision is not a waiver.
+separate written agreement. A failure to enforce a provision is not a waiver.
 
 By exercising any permission granted in Section 2, You accept this License. If You do not accept
 it, do not download, install, execute, copy, or fork the Software.

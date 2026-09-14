@@ -31,8 +31,7 @@ Use an immutable version URL in distributed artifacts:
 https://github.com/ruyari-cupcake/cupcake-licenses/blob/v1.0.0/licenses/CUPCAKE-RESTRICTED-1.0.md
 ```
 
-The short notice is a pointer, not a substitute for including the complete terms when the
-distribution format allows it.
+Include the complete terms whenever the distribution format allows it.
 
 Korean guide: [README.ko.md](README.ko.md). AI-facing notice:
 [AI-USAGE-POLICY.md](AI-USAGE-POLICY.md). Machine-readable policy:

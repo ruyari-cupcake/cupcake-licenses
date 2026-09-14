@@ -1,0 +1,37 @@
+{
+  "schemaVersion": 1,
+  "license": {
+    "name": "Cupcake Restricted Use License 1.0",
+    "identifier": "LicenseRef-Cupcake-Restricted-1.0",
+    "immutableUrl": "https://github.com/ruyari-cupcake/cupcake-licenses/blob/v1.0.0/licenses/CUPCAKE-RESTRICTED-1.0.md"
+  },
+  "coverageRule": "A file or release is covered only when its own notice identifies this license and version. Earlier grants are not revoked retroactively.",
+  "projects": [
+    {
+      "name": "Cupcake Provider Manager (CPM)",
+      "repository": "https://github.com/ruyari-cupcake/cupcake-plugin-manager-v2",
+      "status": "planned-adoption",
+      "appliesTo": "Future files and releases that explicitly carry LicenseRef-Cupcake-Restricted-1.0"
+    },
+    {
+      "name": "Cupcake Trans",
+      "repository": "https://github.com/ruyari-cupcake/Cupcake_trans",
+      "status": "planned-adoption",
+      "appliesTo": "Future files and releases that explicitly carry LicenseRef-Cupcake-Restricted-1.0",
+      "legacyTerms": "Previously released MIT-licensed material remains available under its existing grant"
+    },
+    {
+      "name": "Log Cupcake",
+      "repository": "https://github.com/ruyari-cupcake/log-cupcake",
+      "status": "planned-adoption",
+      "appliesTo": "Future files and releases that explicitly carry LicenseRef-Cupcake-Restricted-1.0",
+      "legacyTerms": "Previously released MIT-licensed material remains available under its existing grant"
+    },
+    {
+      "name": "Cupcake Bench",
+      "repository": "https://github.com/ruyari-cupcake/cupcake-bench",
+      "status": "planned-adoption",
+      "appliesTo": "Future files and releases that explicitly carry LicenseRef-Cupcake-Restricted-1.0"
+    }
+  ]
+}

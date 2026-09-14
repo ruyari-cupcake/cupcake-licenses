@@ -16,8 +16,7 @@ This is a proprietary source-available license, not an open-source license.
 
 The machine-readable [project registry](registry/projects.json) records projects selected for
 adoption. A particular file or release is covered only when its own notice identifies this
-license and version. Older versions keep the terms under which they were originally released;
-adding a project to the registry does not retroactively revoke an earlier license.
+license and version.
 
 ## Applying the license
 
@@ -35,21 +34,6 @@ https://github.com/ruyari-cupcake/cupcake-licenses/blob/v1.0.0/licenses/CUPCAKE-
 The short notice is a pointer, not a substitute for including the complete terms when the
 distribution format allows it.
 
-## Important limits
-
-- A notice and license create legal and machine-readable boundaries; they do not technically
-  prevent copying.
-- GitHub public repositories remain viewable and forkable under GitHub's Terms. GitHub also
-  receives its own platform license from uploaders, including rights stated in its current
-  Terms for AI features and affiliated AI/ML technologies. Keep source private if that grant is
-  unacceptable.
-- A `robots.txt` file inside a GitHub repository cannot control GitHub-wide crawling. The Robots
-  Exclusion Protocol is a crawler request, not access authorization.
-- The AI/TDM reservation is deliberately explicit, but enforceability and statutory exceptions
-  vary by jurisdiction. Obtain advice from a qualified lawyer before relying on these terms for
-  a dispute or commercial licensing program.
-
 Korean guide: [README.ko.md](README.ko.md). AI-facing notice:
 [AI-USAGE-POLICY.md](AI-USAGE-POLICY.md). Machine-readable policy:
-[machine-readable/ai-policy.json](machine-readable/ai-policy.json). Source-backed platform and
-legal context: [LEGAL-NOTES.md](LEGAL-NOTES.md).
+[machine-readable/ai-policy.json](machine-readable/ai-policy.json).

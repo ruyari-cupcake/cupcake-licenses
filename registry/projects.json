@@ -5,7 +5,7 @@
     "identifier": "LicenseRef-Cupcake-Restricted-1.0",
     "immutableUrl": "https://github.com/ruyari-cupcake/cupcake-licenses/blob/v1.0.0/licenses/CUPCAKE-RESTRICTED-1.0.md"
   },
-  "coverageRule": "A file or release is covered only when its own notice identifies this license and version. Earlier grants are not revoked retroactively.",
+  "coverageRule": "A file or release is covered when its own notice identifies this license and version.",
   "projects": [
     {
       "name": "Cupcake Provider Manager (CPM)",
@@ -17,15 +17,13 @@
       "name": "Cupcake Trans",
       "repository": "https://github.com/ruyari-cupcake/Cupcake_trans",
       "status": "planned-adoption",
-      "appliesTo": "Future files and releases that explicitly carry LicenseRef-Cupcake-Restricted-1.0",
-      "legacyTerms": "Previously released MIT-licensed material remains available under its existing grant"
+      "appliesTo": "Files and releases that explicitly carry LicenseRef-Cupcake-Restricted-1.0"
     },
     {
       "name": "Log Cupcake",
       "repository": "https://github.com/ruyari-cupcake/log-cupcake",
       "status": "planned-adoption",
-      "appliesTo": "Future files and releases that explicitly carry LicenseRef-Cupcake-Restricted-1.0",
-      "legacyTerms": "Previously released MIT-licensed material remains available under its existing grant"
+      "appliesTo": "Files and releases that explicitly carry LicenseRef-Cupcake-Restricted-1.0"
     },
     {
       "name": "Cupcake Bench",
